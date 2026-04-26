@@ -398,6 +398,7 @@ address {
         background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)),
             url(../images/hero-img.png)
 }
+}
 
 @media (min-width: 1158px) {
     .main-s {
@@ -780,8 +781,8 @@ address {
 @media (min-width: 1158px) {
     .li-2-1 {
         width: calc((100% - 2 * 24px) / 3);
+        box-shadow: none;
     }
-    box-shadow: none;
 }
 
 .li-2-1:hover {
