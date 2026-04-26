@@ -226,9 +226,7 @@ address {
     color: #404bbf;
 }
 
-/* ==========================================
-   MOBILE MENU
-   ========================================== */
+/* ====MOBILE MENU==== */
 
 .mobile-menu {
     position: fixed;
@@ -548,7 +546,6 @@ address {
     }
 }
 
-/* Feature headings */
 .t-ul-1 {
     font-weight: 700;
     font-size: 36px;
